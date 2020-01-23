@@ -1,0 +1,34 @@
+img {
+    height: 330px;
+
+}
+
+body {
+    background: url("http://cristianosoy.com/wp-content/uploads/2010/04/Cristo_min.jpg");
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: purple;
+}
+
+h4 {
+    color: yellow;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.GreenBackground {
+    color: green;
+}
